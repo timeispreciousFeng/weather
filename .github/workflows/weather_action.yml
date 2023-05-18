@@ -33,5 +33,5 @@ jobs:
           password: ${{ secrets.MAIL_PASSWORD }}
           subject: 天气预报 - ${{env.WEATHER_REPORT_DATE}}
           from: GitHub Actions
-          to: fatedeity@qq.com
+          to: 1192255165@qq.com
           body: file://output.txt
